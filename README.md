@@ -2,8 +2,8 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/DISASTER_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/DISASTER_NETWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DYNA_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DYNA_NETWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
@@ -20,4 +20,4 @@
 
 
 [BLACKMAMBA](https://t.me/BLACK_MAMBA_RETURNS_OP)<p>
-[DISASTER](https://t.me/DISASTER_NETWORK_OWNER)
+[DYNA](https://t.me/DYNA_OPTIMISE)

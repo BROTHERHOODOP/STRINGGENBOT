@@ -8,8 +8,8 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("❣️ sᴜᴩᴩᴏʀᴛ ❣️", url="https://t.me/MAMBA_NETWORK"),
-         InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/BLACK_MAMBA_RETURNS_OP"),
+        [InlineKeyboardButton("❣️ sᴜᴩᴩᴏʀᴛ ❣️", url="https://t.me/DYNA_NETWORK"),
+         InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/DYNA_OPTIMISE"),
         ],
     ]
 
@@ -19,6 +19,6 @@ Hᴇʏ {},
 Tʜɪs ɪs {},
 Aɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Sᴏᴜʀᴄᴇ : [SUPPORT](https://t.me/MAMBA_X_SUPPORT)
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [MAMBA](https://t.me/BLACK_MAMBA_RETURNS_OP) !
+Sᴏᴜʀᴄᴇ : [SUPPORT](https://t.me/DYNA_SUPPORT)
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [DYNA](https://t.me/DYNA_OPTIMISE) !
     """

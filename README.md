@@ -10,7 +10,7 @@
 #### With Heroku
 
 
--[![Deploy](https://telegra.ph/file/ae98ddc5ebdfb201d047d.jpg)https://github.com/DYNANETWORK/StringGenBot]
+-[![Deploy]https://github.com/DYNANETWORK/StringGenBot(https://telegra.ph/file/ae98ddc5ebdfb201d047d.jpg)
 
   
 

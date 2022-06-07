@@ -10,7 +10,7 @@
 #### With Heroku
 
 
-- [![Heroku](https://telegra.ph/file/ae98ddc5ebdfb201d047d.jpg)](#Deploy-To-Heroku)"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+- [![Heroku](https://telegra.ph/file/ae98ddc5ebdfb201d047d.jpg)](#Deploy-To-Heroku)"
 ">
   
 

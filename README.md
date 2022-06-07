@@ -10,8 +10,8 @@
 #### With Heroku
 
 
-- [![Heroku](https://telegra.ph/file/ae98ddc5ebdfb201d047d.jpg)](#Deploy-To-Heroku)"
-">
+- [![Heroku](https://telegra.ph/file/ae98ddc5ebdfb201d047d.jpg)](#Deploy-To-Heroku)"https://heroku.com/deploy?template=https://github.com/DYNANETWORK/StringGenBot
+
   
 
 -------------------------------------------------

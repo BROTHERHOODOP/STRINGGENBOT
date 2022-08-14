@@ -8,8 +8,8 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("❣️ sᴜᴩᴩᴏʀᴛ ❣️", url="https://t.me/THE_BROTHERHOOD_COUNCIL"),
-         InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/TBH_COUNCIL_SUPPORT"),
+        [InlineKeyboardButton("❣️ Support ❣️", url="https://t.me/TBH_COUNCIL_SUPPORT"),
+         InlineKeyboardButton("🥀 Updates 🥀", url="https://t.me/THE_BROTHERHOOD_COUNCIL"),
         ],
     ]
 
@@ -19,6 +19,6 @@ Hᴇʏ {},
 Tʜɪs ɪs {},
 Aɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-ꜱᴜᴩᴩᴏʀᴛ : [SUPPORT](https://t.me/THE_BROTHERHOOD_COUNCIL)
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [BROTHERHOOD](https://t.me/TBH_COUNCIL_SUPPORT) !
+ꜱᴜᴩᴩᴏʀᴛ : [SUPPORT](https://t.me/TBH_COUNCIL_SUPPORT)
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [BROTHERHOOD](https://t.me/THE_BROTHERHOOD_COUNCIL) !
     """

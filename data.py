@@ -20,5 +20,5 @@ Tʜɪs ɪs {},
 Aɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
 Sᴏᴜʀᴄᴇ : [SUPPORT](https://t.me/THE_BROTHERHOOD_COUNCIL)
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [DYNA](https://t.me/THE_BROTHERHOOD_COUNCIL_SUPPORT) !
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [BROTHERHOOD](https://t.me/THE_BROTHERHOOD_COUNCIL_SUPPORT) !
     """
